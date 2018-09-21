@@ -1,6 +1,6 @@
-### CS411 Project
+# CS411 Project
 
-### Contributors
+# Contributors
 
 ## Justin Ingwersen
 ## Rebecca Arce
@@ -9,10 +9,10 @@
 
 ### Project Ideas
 
-# Idea 1
+### Idea 1
 
 <insert idea 1
 
-# Idea 2
+### Idea 2
 
 <insert idea 2>
