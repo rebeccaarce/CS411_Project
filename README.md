@@ -10,7 +10,7 @@
 
 * Idea 1
 
-<insert idea 1
+<insert idea 1>
 
 * Idea 2
 
