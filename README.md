@@ -21,9 +21,7 @@ A web application that uses current fashion trends to suggest clothing advise. U
 
 
 
-## App Use Cases
-
-* Jog-Run
+## App Use Case
 
 A user opens up our website for the first time and is immediately promted to either "register" or "sign in". Since it is their first time they click on "register" and put in their basic information (name, age, height and weight). After they register there is a page that asks if they want to log in with Spotify. The user is then redirected to the main page where they get to choose between "manage tags" and "start exercise". 
 In "manage tags" they would pick between running, jogging and lifting where they would then be redirected to a page to add songs from their spotify playlists to each of these exercise tags.
